@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiFiDetector", "WiFiDetector\WiFiDetector.csproj", "{28DFC475-0F9D-49F9-86C3-549C473D0F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DFC475-0F9D-49F9-86C3-549C473D0F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DFC475-0F9D-49F9-86C3-549C473D0F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DFC475-0F9D-49F9-86C3-549C473D0F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DFC475-0F9D-49F9-86C3-549C473D0F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
