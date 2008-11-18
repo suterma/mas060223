@@ -1,9 +1,0 @@
-C:\Documents and Settings\standarduser\My Documents\Visual Studio 2008\Projects\WiFiDetector\WiFiDetector\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\standarduser\My Documents\Visual Studio 2008\Projects\WiFiDetector\WiFiDetector\obj\Debug\WiFiDetector.Form1.resources
-C:\Documents and Settings\standarduser\My Documents\Visual Studio 2008\Projects\WiFiDetector\WiFiDetector\obj\Debug\WiFiDetector.Properties.Resources.resources
-C:\Documents and Settings\standarduser\My Documents\Visual Studio 2008\Projects\WiFiDetector\WiFiDetector\obj\Debug\WiFiDetector.csproj.GenerateResource.Cache
-C:\Documents and Settings\standarduser\My Documents\Visual Studio 2008\Projects\WiFiDetector\WiFiDetector\bin\Debug\WiFiDetector.exe
-C:\Documents and Settings\standarduser\My Documents\Visual Studio 2008\Projects\WiFiDetector\WiFiDetector\bin\Debug\WiFiDetector.pdb
-C:\Documents and Settings\standarduser\My Documents\Visual Studio 2008\Projects\WiFiDetector\WiFiDetector\obj\Debug\WiFiDetector.exe
-C:\Documents and Settings\standarduser\My Documents\Visual Studio 2008\Projects\WiFiDetector\WiFiDetector\obj\Debug\WiFiDetector.pdb
-c:\Documents and Settings\standarduser\My Documents\_Diplomarbeit In-Train-Navigation\code\WiFiDetector\WiFiDetector\obj\Debug\WiFiDetector.exe
